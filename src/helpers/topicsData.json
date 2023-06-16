@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "topic": "The importance of establishing a strong online presence for small businesses",
+    "keywords": [
+      "online presense",
+      "small businesses",
+      "digital marketing",
+      "branding"
+    ],
+    "category": "Mission"
+  },
+  {
+    "id": 2,
+    "topic": "How fast turnaround time in logo and website design benefit your business",
+    "keywords": [
+      "fast turnaround",
+      "logo design",
+      "website design",
+      "branding"
+    ],
+    "category": "Mission"
+  },
+  {
+    "id": 3,
+    "topic": "Affordable branding solutions for startups and entrepreneurs",
+    "keywords": [
+      "affordable branding",
+      "startups",
+      "entrepreneurs",
+      "logo design",
+      "website design"
+    ],
+    "category": "Mission"
+  },
+  {
+    "id": 4,
+    "topic": "The benefits of comprehensive branding services for small to medium-sized businesses",
+    "keywords": [
+      "comprehensive branding",
+      "small businesses",
+      "logo design",
+      "website design",
+      "social media management"
+    ],
+    "category": "Mission"
+  },
+  {
+    "id": 5,
+    "topic": "Expert tips for choosing the right digital marketing agency for your business",
+    "keywords": [
+      "digital marketing agency",
+      "tips",
+      "branding",
+      "website design",
+      "social media management"
+    ],
+    "category": "Mission"
+  },
+  {
+    "id": 6,
+    "topic": "Smartphone Buying Guide: How to Choose the Right One",
+    "keywords": ["smartphone, buying", "guide", "choose", "right"],
+    "category": "Product"
+  },
+  {
+    "id": 7,
+    "topic": "Best Gaming Laptops: Top Options for Gamers",
+    "keywords": ["gaming", "laptops", "top", "options", "gamers"],
+    "category": "Product"
+  },
+  {
+    "id": 8,
+    "topic": "Eco-Friendly Home Products: Sustainable Choices for Consumers",
+    "keywords": ["eco-friendly", "home", "products", "sustainable", "choices"],
+    "category": "Product"
+  },
+  {
+    "id": 9,
+    "topic": "Essential Travel Accessories: Must-Haves for Every Trip",
+    "keywords": ["travel", "accessories", " must-haves", "trip", "essentials"],
+    "category": "Product"
+  },
+  {
+    "id": 10,
+    "topic": "Skincare for Sensitive Skin: Product Recommendations and Tips",
+    "keywords": ["skincare", "sensitive", "product", "recommendations", "tips"],
+    "category": "Product"
+  },
+  {
+    "id": 11,
+    "topic": "Smart Home Innovations: Latest Advancements in Home Automation",
+    "keywords": [
+      "smart home",
+      "innovations",
+      "latest",
+      "advancements",
+      "automation"
+    ],
+    "category": "Product"
+  },
+  {
+    "id": 12,
+    "topic": "Fashion Accessory Trends: What's In Style for Accessories",
+    "keywords": ["fashion", "accessory", "trends", "style", "accessories"],
+    "category": "Product"
+  },
+  {
+    "id": 13,
+    "topic": "DIY Product Hacks: Creative Solutions for Everyday Items",
+    "keywords": ["DIY", "product", "hacks", "creative", "solutions"],
+    "category": "Product"
+  },
+  {
+    "id": 14,
+    "topic": "Customer Segmentation: Strategies for Targeting",
+    "keywords": ["customer", "segmentation", "targeting", "strategies"],
+    "category": "ICP"
+  },
+  {
+    "id": 15,
+    "topic": "Millennial Shoppers: Understanding Buying Habits",
+    "keywords": ["millennial", "shoppers", " buying habits", "understanding"],
+    "category": "ICP"
+  },
+  {
+    "id": 16,
+    "topic": "Persona Creation: Crafting Effective Profiles",
+    "keywords": ["persona", "creation", "crafting", "profiles"],
+    "category": "ICP"
+  },
+  {
+    "id": 17,
+    "topic": "B2B Customer Profiles: Targeting Business Clients",
+    "keywords": ["B2B", "customer profiles", "targeting", "business clients"],
+    "category": "ICP"
+  },
+  {
+    "id": 18,
+    "topic": "Psychographics: Insights into Customer Profiles",
+    "keywords": ["psychographics", "insights", "customer profiles"],
+    "category": "ICP"
+  },
+  {
+    "id": 19,
+    "topic": "E-commerce Success: Ideal Customer Profiles",
+    "keywords": ["e-commerce", "success", "ideal customer profiles"],
+    "category": "ICP"
+  },
+  {
+    "id": 20,
+    "topic": "Gen Z Consumers: Analyzing Customer Profiles",
+    "keywords": ["Gen Z", "consumers", "analyzing", "customer profiles"],
+    "category": "ICP"
+  },
+  {
+    "id": 21,
+    "topic": "lorem ipsum topic",
+    "keywords": ["aaaaaaa", "bbbbbb ", "cccc", "dddd"],
+    "category": "Custom"
+  }
+]
